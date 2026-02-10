@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dylan LaFontsee"
 description              : "A collection of all of my projects."
-url                      : "https://dylanlafontsee.com"
+url                      : "https://www.dylanlafontsee.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "1337edge/1337edge.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
