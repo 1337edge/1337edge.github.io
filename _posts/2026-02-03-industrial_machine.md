@@ -58,7 +58,7 @@ To ensure reliable operation in an electrically noisy environment, I engineered 
 * **Galvanic Isolation:** Implemented relays to segregate the 24V industrial sensor loop from the Arduino's 5V logic. This ensured that the microcontroller received clean, digital square waves regardless of the electrical noise on the factory floor.
 * **Rapid Prototyping:** Due to budget constraints, I designed and printed a custom **non-conductive chassis** to house the terminal blocks. I used **point-to-point soldering** to bridge the components directly between terminals, securing everything with structural adhesive to create a rugged, vibration-proof module.
 
-![custom pcb](/assets/images/industrial-machine/custom-circuit.jpg)
+![custom pcb](/assets/images/industrial-machine/custom-circuit.JPG)
 
 ### Mechanical Operation & Sorting Logic
 1.  **Loading:** Operator places the casting into the fixture.
