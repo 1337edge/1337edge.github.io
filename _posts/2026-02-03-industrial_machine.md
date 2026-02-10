@@ -15,27 +15,27 @@ toc: true
 toc_label: "System Design"
 toc_sticky: true
 header:
-  teaser: /assets/images/industrial-machine/full-board.jpg
+  teaser: /assets/images/industrial-machine/full-board.JPG
 sidebar:
   - title: "Industry"
     text: "Metal Casting (Tier 2 Auto)"
   - title: "Tech Stack"
     text: "C++, Arduino Mega, Custom PCB"
 gallery:
-  - url: /assets/images/industrial-machine/wiring.jpg
-    image_path: /assets/images/industrial-machine/wiring.jpg
+  - url: /assets/images/industrial-machine/wiring.JPG
+    image_path: /assets/images/industrial-machine/wiring.JPG
     alt: "Hand-drawn circuit design"
     title: "1. Circuit Design Sketch"
-  - url: /assets/images/industrial-machine/custom-circuit.jpg
-    image_path: /assets/images/industrial-machine/custom-circuit.jpg
+  - url: /assets/images/industrial-machine/custom-circuit.JPG
+    image_path: /assets/images/industrial-machine/custom-circuit.JPG
     alt: "Finished 3D printed board"
     title: "2. Custom Isolation Module"
-  - url: /assets/images/industrial-machine/full-board.jpg
-    image_path: /assets/images/industrial-machine/full-board.jpg
+  - url: /assets/images/industrial-machine/full-board.JPG
+    image_path: /assets/images/industrial-machine/full-board.JPG
     alt: "Full Electrical Board"
     title: "3. Final Panel Wiring"
-  - url: /assets/images/industrial-machine/machine.jpg
-    image_path: /assets/images/industrial-machine/machine.jpg
+  - url: /assets/images/industrial-machine/machine.JPG
+    image_path: /assets/images/industrial-machine/machine.JPG
     alt: "Assembled Machine"
     title: "4. Deployment"
 ---

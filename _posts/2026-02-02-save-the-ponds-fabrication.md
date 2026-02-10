@@ -15,7 +15,7 @@ toc: true
 toc_label: "Fabrication Process"
 toc_sticky: true
 header:
-  teaser: /assets/images/plasma-cutter/fish-plaque.jpg
+  teaser: /assets/images/plasma-cutter/fish-plaque.JPG
 sidebar:
   - title: "Client"
     text: "Save the Ponds (Paris, MI)"
@@ -41,7 +41,7 @@ gallery:
 ## Project Scope
 I was commissioned to design and fabricate custom metal "donor plaques" for the **Save the Ponds** project in **Paris, Michigan**. The initiative aims to restore the historic ponds at the Paris Park Fish Hatchery. This project required a scalable manufacturing process to produce unique, weather-resistant steel plaques for each donor level.
 
-![Paris Ponds Fish](/assets/images/plasma-cutter/fish-plaque.jpg)
+![Paris Ponds Fish](/assets/images/plasma-cutter/fish-plaque.JPG)
 
 ## The Challenge
 The project required producing a high volume of aesthetic metal parts that were durable enough for permanent outdoor installation in a Michigan winter.
