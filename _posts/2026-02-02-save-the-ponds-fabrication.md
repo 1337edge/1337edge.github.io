@@ -32,8 +32,8 @@ gallery:
     image_path: /assets/images/plasma-cutter/fish-cutting.jpg
     alt: "CNC Plasma Cutting Process"
     title: "2. Plasma Cutting Operation"
-  - url: /assets/images/plasma-cutter/fish-plaque.jpg
-    image_path: /assets/images/plasma-cutter/fish-plaque.jpg
+  - url: /assets/images/plasma-cutter/fish-plaque.JPG
+    image_path: /assets/images/plasma-cutter/fish-plaque.JPG
     alt: "Finished Steel Plaques"
     title: "3. Cut Steel Plaque"
 ---
