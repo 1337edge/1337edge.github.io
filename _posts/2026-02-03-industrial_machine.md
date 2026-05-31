@@ -125,7 +125,7 @@ void getPart(){
 ## Engineering Retrospective: Why Arduino?
 While **Programmable Logic Controllers (PLCs)** are the industry standard for automation, this project had strict budget constraints that precluded a $2,000+ control system. 
 
-* **Cost-Benefit Analysis:** I chose the Arduino Mega ($40) over a MicroLogix PLC ($400+) to allocate more budget to high-quality mechanical components (NEMA 34 motors, pneumatics).
+* **Cost-Benefit Analysis:** I chose the Arduino Mega ($40) over a MicroLogix PLC ($1200+) to allocate more budget to high-quality mechanical components (NEMA 34 motors, pneumatics).
 * **The Trade-off:** The lower cost required significantly more engineering effort in **signal conditioning** and **noise suppression**.
 * **Lesson Learned:** This constraint forced me to design my own electrical protection circuits rather than relying on off-the-shelf hardened I/O, giving me a deeper understanding of **embedded hardware design** and **industrial signal integrity**.
 
